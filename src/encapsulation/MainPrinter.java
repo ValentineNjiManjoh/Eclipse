@@ -5,7 +5,7 @@ public class MainPrinter {
 	public static void main(String[] args) 
 	{
 		
-		//Using it to learn Git
+		
 		Printer printer = new Printer(50, false);
 		System.out.println("Inital pages count =" + printer.getPagePrinted());
 		
